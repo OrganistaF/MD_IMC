@@ -5,7 +5,6 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.text.InputType
 import android.widget.RadioButton
-import androidx.core.view.isNotEmpty
 import com.google.android.material.snackbar.Snackbar
 import edu.utad.md_imc.databinding.ActivityMainBinding
 
